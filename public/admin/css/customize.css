@@ -1,0 +1,46 @@
+.text-success {
+   color: #0bf70f;
+}
+::-webkit-scrollbar {
+   background: #000;
+   width: 3px;
+   height: 11px;
+}
+
+::-webkit-scrollbar-thumb {
+   background: #3c8dbc;
+   border-radius: 20px;
+}
+.login_container{
+   margin-top: 150px;
+}
+#login_admin{
+   background: url("../../../public/admin/images/1.jpeg");
+   background-size: cover;
+}
+.user-panel>.image>img{
+   max-width: 75px;
+}
+.user-panel>.info{
+   top: 220px;
+   left:20px;
+}
+.content-wrapper, .right-side{
+   background-color: #fbfbfb;
+}
+#dataTables-example_paginate ul li{
+   padding: 0px;
+   margin: 0px;
+}
+#user-panel{
+   height: 95px; 
+   border-bottom: 2px solid #00ffdc;
+}
+#content_index{
+   min-height: 250px;
+    padding: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
